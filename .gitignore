@@ -1,0 +1,9 @@
+.vscode/
+*.txt
+.env
+.csv
+
+out_1.xlsx
+out_2.xlsx
+out_4.xlsx
+out_5.xlsx
